@@ -3,6 +3,8 @@ Understand the principle of blockchain by python code (minimum viable product)
 
 使用python代码完成区块链的原理理解，构建最小可用snakecoin
 
+讲解视频： https://www.bilibili.com/video/BV1Y94y1C782/
+
 ref: https://medium.com/crypto-currently/lets-make-the-tiniest-blockchain-bigger-ac360a328f4d
 
 ref: https://www.liaoxuefeng.com/wiki/1207298049439968/1311929706479649
